@@ -1,6 +1,6 @@
 # Form validation
 
-From character counting to numerical validation
+From numerical validation
 
 ## Quick Start
 
